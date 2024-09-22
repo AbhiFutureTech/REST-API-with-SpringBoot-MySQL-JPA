@@ -16,7 +16,7 @@ create database user_database
 
 3. Change  username and password in Mysql
 
-* open ,src/main/resources/application.properties,
+* open _src/main/resources/application.properties_
 
 * change ,spring.datasource.username, and ,spring.datasource.password, as per your mysql installation
 
